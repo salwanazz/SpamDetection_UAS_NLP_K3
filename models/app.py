@@ -5,8 +5,8 @@ import random
 # ===============================
 # LOAD MODEL DAN VECTORIZER
 # ===============================
-models = joblib.load("models.pkl")
-tfidf = joblib.load("tfidf.pkl")
+models = joblib.load("models/models.pkl")
+tfidf = joblib.load("models/tfidf.pkl")
 model_lr = models["logistic"]
 
 # ===============================
@@ -282,3 +282,4 @@ Muhamad Nurul Awalin (10222149)<br><br>
 © 2025 | Sistem Deteksi Spam Email
 </div>
 """, unsafe_allow_html=True)
+
