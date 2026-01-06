@@ -38,7 +38,22 @@ cd SpamDetection_UAS_NLP_K3
 pip install -r requirements.txt
 streamlit run app.py
 ```
+---
+# 📨 Contoh Pesan Email Spam
 
+1. “Selamat! Anda memenangkan hadiah undian jutaan rupiah. Klik link berikut untuk klaim sekarang.”
+2. “Promo besar-besaran! Dapatkan diskon 90% hanya hari ini. Daftar melalui link di bawah.”
+3. “Akun Anda terdeteksi bermasalah. Verifikasi segera dengan mengisi data melalui tautan ini.”
+4. “Lowongan kerja online gaji besar tanpa syarat. Daftar sekarang juga!”
+5. “Anda terpilih sebagai pemenang hadiah. Kirim data pribadi Anda untuk proses pencairan.”
+   
+# 📩 Contoh Pesan Email Non-Spam (Ham)
+1. “Bu, saya izin tidak masuk kuliah hari ini karena sedang sakit.”
+2. “Terima kasih atas informasi yang telah disampaikan sebelumnya.”
+3. “Rapat akan dilaksanakan besok pukul 09.00 WIB di ruang meeting utama.”
+4. “Mohon dikirimkan kembali file laporan yang telah direvisi.”
+5. “Selamat pagi, berikut saya lampirkan hasil tugas yang diminta.”
+   
 ---
 
 # 📁 Struktur Folder
